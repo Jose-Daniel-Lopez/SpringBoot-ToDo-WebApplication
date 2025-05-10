@@ -62,7 +62,7 @@ The application auto-generates the following table:
 ## Getting Started
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/Todo-Web-App.git cd Todo-Web-App
+   git clone https://github.com/yourusername/Todo-Web-App.git 
 
 2. **Configure the database**
 Create a MySQL database (e.g., `todo_db`). Update your `application.properties` or `application.yml` with your database credentials:
