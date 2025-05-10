@@ -63,7 +63,7 @@ The application auto-generates the following table:
 
 1. **Clone the repository**
    
-   git clone https://github.com/yourusername/Todo-Web-App.git 
+   git clone https://github.com/Jose-Daniel-Lopez/Todo-Web-App.git
 
 2. **Configure the database**
 
