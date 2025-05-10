@@ -73,6 +73,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/todo_db spring.datasource.us
 3. **Build and run the application**
 
 mvn spring-boot:run
+
 4. The app will be available at `http://localhost:8080/tasks/showAll`
 
 ---
