@@ -69,7 +69,7 @@ Create a MySQL database (e.g., `todo_db`). Update your `application.properties` 
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db spring.datasource.username=your_mysql_user spring.datasource.password=your_mysql_password spring.jpa.hibernate.ddl-auto=update
 
 3. **Build and run the application**
-   mvn spring-boot:run
+mvn spring-boot:run
 4. The app will be available at `http://localhost:8080/tasks/showAll`
 
 ---
