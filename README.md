@@ -97,7 +97,6 @@ mvn spring-boot:run
 ## Screenshots
 
 ![App Screenshot](https://pplx-res.cloudinary.com/image/upload/v1746878024/user_uploads/64829762/7c720f66-39e0-41bd-ae68-3180154e1c51/CleanShot-2025-05-10-at-13.53.41.jpg)
-![App Screenshot2](https://imgur.com/a/FSKGmTy)
 ![Database Schema](https://pplx-res.cloudinary.com/image/upload/v1746877956/user_uploads/64829762/31d9b73a-0318-48df-ae94-704f5398ee87/CleanShot-2025-05-10-at-13.52.32-2x.jpg)
 
 ---
