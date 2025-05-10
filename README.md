@@ -62,13 +62,16 @@ The application auto-generates the following table:
 ## Getting Started
 
 1. **Clone the repository**
+   
    git clone https://github.com/yourusername/Todo-Web-App.git 
 
 2. **Configure the database**
+
 Create a MySQL database (e.g., `todo_db`). Update your `application.properties` or `application.yml` with your database credentials:
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db spring.datasource.username=your_mysql_user spring.datasource.password=your_mysql_password spring.jpa.hibernate.ddl-auto=update
 
 3. **Build and run the application**
+
 mvn spring-boot:run
 4. The app will be available at `http://localhost:8080/tasks/showAll`
 
