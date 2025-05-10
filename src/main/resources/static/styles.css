@@ -1,0 +1,33 @@
+.completed-task {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+.task-item {
+    transition: all 0.3s ease;
+}
+
+.task-item:hover {
+    background-color: #f8f9fa;
+}
+
+.action-buttons a {
+    text-decoration: none;
+    margin-left: 8px;
+}
+
+.task-input:focus {
+    box-shadow: none;
+    outline: none;
+    border-color: #86b7fe;
+}
+
+.custom-input-group .form-control {
+    border-top-left-radius: 0.375rem;
+    border-bottom-left-radius: 0.375rem;
+}
+
+.custom-input-group .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
